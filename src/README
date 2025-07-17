@@ -1,0 +1,44 @@
+# Java Learning – NorcorpTech
+
+Ce dépôt contient des exercices d'apprentissage du langage Java, étape par étape.
+
+## 📘 Sujets couverts
+
+- ✅ 01 - Variables en Java (`int`, `String`, `boolean`, etc.)
+- ⏳ 02 - Data Types en Java (`byte`, `short`, `int`, `long`, `float`, `double`, `char`, `boolean`)
+- ⏳ 03 - Literals en Java (entiers, flottants, booléens, caractères, chaînes)
+- ⏳ 04 - Conversion de types (cast implicite et explicite)
+- ⏳ 05 - Opérateurs arithmétiques
+- ⏳ 06 - Opérateurs relationnels
+- ⏳ 07 - Opérateurs logiques
+- ⏳ 08 - Conditions (`if`, `if-else`, `else-if`, ternaire, `switch`)
+- ⏳ 09 - Boucles (`for`, `while`, `do-while`)
+- ⏳ 10 - Classes et objets
+- ⏳ 11 - Méthodes et surcharge
+- ⏳ 12 - Stack & Heap
+- ⏳ 13 - Tableaux (`arrays`)
+- ⏳ 14 - Chaînes (`String`, `StringBuilder`, `StringBuffer`)
+- ⏳ 15 - Variables et méthodes `static`, blocs statiques
+- ⏳ 16 - Encapsulation, Getters/Setters, `this`
+- ⏳ 17 - Constructeurs, objets anonymes
+- ⏳ 18 - Héritage, `super`, override
+- ⏳ 19 - Modificateurs d'accès, polymorphisme, `final`
+- ⏳ 20 - `Object` class : `equals`, `toString`, `hashCode`
+- ⏳ 21 - Upcasting, downcasting, Wrapper classes
+- ⏳ 22 - `abstract`, classes internes et anonymes
+- ⏳ 23 - Interfaces, `enum`, annotations
+- ⏳ 24 - Lambda expressions
+- ⏳ 25 - Exceptions
+- ⏳ 26 - Input utilisateur (`Scanner`, `BufferedReader`)
+- ⏳ 27 - Threads et concurrence (`Runnable`, `Thread`)
+- ⏳ 28 - Collections (`ArrayList`, `Set`, `Map`, `Comparator`)
+- ⏳ 29 - Stream API
+
+## 🧠 Objectif
+
+Apprendre Java en construisant des petits programmes quotidiens.
+
+---
+
+📅 Commencé le : 16 juillet 2025
+✍️ Auteur : NorcorpTech
