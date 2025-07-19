@@ -12,7 +12,7 @@ package variables;
  *     Calcule et affiche l’âge avec : age = anneeActuelle - anneeNaissance
  */
 
-public class Exercices {
+public class Exercises {
     public static void main(String[] args) {
         System.out.println("Exercice after understanding the variables");
 
